@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.deps.json
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.runtimeconfig.json
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.dll
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\bin\Debug\net10.0\AccesoDatos.pdb
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.dll
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\refint\AccesoDatos.dll
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\HP\source\repos\ParcialProgramacion\ParcialProgramacion\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll
